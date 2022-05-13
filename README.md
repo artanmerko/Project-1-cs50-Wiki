@@ -1,7 +1,7 @@
 # CS50X PROJECT: Wiki
 ## Wiki Design a Wikipedia-like online encyclopedia[ Youtube](https://www.youtube.com/watch?v=wUOviegLRFM)
 
-## CS50X [CS50W](https://cs50.harvard.edu/web/2020/projects/1/wiki/)<br>
+## Harvard University [CS50W](https://cs50.harvard.edu/web/2020/projects/1/wiki/)<br>
 ## About
 Wikipedia is a free online encyclopedia that consists of a number of encyclopedia entries on various topics.
 
