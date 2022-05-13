@@ -42,5 +42,7 @@ In your terminal, execute the below to submit your work.<br>
 ```
 submit50 web50/projects/2020/x/wiki
 ```
-### How to execute 
-`manage.py runserver`
+#### How to execute 
+```
+manage.py runserver
+```
