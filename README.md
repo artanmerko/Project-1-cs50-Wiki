@@ -1,4 +1,4 @@
-# CS50X PROJECT: Wiki
+# CS50W PROJECT: Wiki
 ## Wiki Design a Wikipedia-like online encyclopedia[ Youtube](https://www.youtube.com/watch?v=wUOviegLRFM)
 
 ## Harvard University [CS50W](https://cs50.harvard.edu/web/2020/projects/1/wiki/)<br>
