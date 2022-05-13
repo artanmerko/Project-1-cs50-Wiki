@@ -32,7 +32,7 @@ Search: Allow the user to type a query into the search box in the sidebar to sea
 
 
 
-### [wiki](https://user-images.githubusercontent.com/97398977/161590323-2544f99d-1d25-4e12-940a-106c5fef3c98.png)
+### [wiki-demo](https://user-images.githubusercontent.com/97398977/161590323-2544f99d-1d25-4e12-940a-106c5fef3c98.png)
 
 
 
